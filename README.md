@@ -3,6 +3,7 @@
 
 - <b>Azure Automated ELK Stack Deployment</b>
   - [Azure Automated ELK Stack Deployment](https://github.com/BilalN23/Azure-Automated-ELK-Stack-Deployment)
+  - [Cloud Architect - Log Collection For Incident Response](https://github.com/BilalN23/Cloud-Architect---Log-Collection-For-Incident-Response)
 - <b>Blue Team v Red Team Simulation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Active Directory Home Lab</b>
