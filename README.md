@@ -2,7 +2,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure Automated ELK Stack Deployment</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Azure Automated ELK Stack Deployment](https://github.com/BilalN23/Azure-Automated-ELK-Stack-Deployment)
 - <b>Blue Team v Red Team Simulation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Active Directory Home Lab</b>
