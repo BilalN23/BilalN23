@@ -7,6 +7,8 @@
   - [Cloud Network Access Control](https://github.com/BilalN23/Cloud-Network-Access-Control)
 - <b>Blue Team v Red Team Simulation</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Network Analysis</b>
+  -[Network Analysis - Incident Response Project](https://github.com/BilalN23/Network-Analysis/)
 - <b>Active Directory Home Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
