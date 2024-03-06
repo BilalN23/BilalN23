@@ -12,16 +12,8 @@
 - <b>Network Analysis</b>
   - [Network Analysis - Incident Response](https://github.com/BilalN23/Network-Analysis/)
     
-- <b>Active Directory Home Lab</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-    
 - <b>Nessus Essential Vulnerability Management</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Nessus Essential Vulnerability Management](https://github.com/BilalN23/Nessus-Essential-Vulnerability-Management)
     
 - <b>File Integrity Monitor PoC</b>
   - [File Integrity Monitor](https://github.com/BilalN23/File-Integrity-Monitor)
