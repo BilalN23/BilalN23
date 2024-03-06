@@ -10,7 +10,7 @@
   - [Blue Team v Red Team Simulation](https://github.com/BilalN23/Blue-Team-v-Red-Team)
     
 - <b>Network Analysis</b>
-  - [Network Analysis - Incident Response Project](https://github.com/BilalN23/Network-Analysis/)
+  - [Network Analysis - Incident Response](https://github.com/BilalN23/Network-Analysis/)
     
 - <b>Active Directory Home Lab</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
